@@ -48,6 +48,7 @@ a:hover {
 
 .container__left {
     width: 35%;
+    height: 100vh;
     min-width: 300px;
     display: flex;
     flex-direction: column;
@@ -132,7 +133,10 @@ a:hover {
 .card-infield {
     height: 11.2rem;
     width: 8rem;
-    border-radius: 8px;
+}
+
+.card-infield > img {
+    border: none;
 }
 
 .card {
@@ -143,3 +147,6 @@ a:hover {
     transform: scale(1.2);
 }
 
+.debug {
+    border: solid 1px red;
+  }
