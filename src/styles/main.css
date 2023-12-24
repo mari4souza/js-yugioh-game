@@ -43,13 +43,13 @@ a:hover {
     position: relative;
     z-index: 3;
     display: flex;
+    flex-direction: row;
     height: 100vh;
 }
 
 .container__left {
     width: 35%;
     height: 100vh;
-    min-width: 300px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -149,4 +149,105 @@ a:hover {
 
 .debug {
     border: solid 1px red;
-  }
+}
+
+
+
+
+
+/* tablets */
+@media screen and (min-width: 481px) and (max-width: 769px) {
+    .container {
+        flex-direction: row;
+    }
+
+    .bg-video {
+        height: 100%;
+        width: 100%;
+    }
+
+    .container__left {
+        width: 30%;
+    }
+
+    .container__right {
+        width: 70%;
+    }
+
+    .card-box_container {
+        width: 100%;
+    }
+
+    .card_details {
+        height: 12rem;
+        width: 8rem;
+        justify-content: space-around;
+    }
+
+    .score_box {
+        height: 8rem;
+    }
+
+    #card-name {
+        font-size: 10px;
+    }
+
+    #card-image {
+        width: 130px;
+    }
+
+    #card-type {
+        font-size: 12px;
+    }
+
+    .card{
+        height: 90px;
+        width: 68px;
+    } 
+
+}
+
+
+
+
+
+/* dispositivos moveis */
+@media screen and (max-width: 480px) {
+    .card{
+        height: 90px;
+        width: 54px;
+    } 
+
+    .container__left {
+        width: 32%;
+    }
+
+    .container__right {
+        width: 68%;
+    }
+
+    .score_box {
+        height: 10rem;
+        padding: 20px;
+    }
+
+
+    #card-image {
+        width: 140px;
+    }
+
+    .card_details {
+        height: 16rem;
+        width: 8rem;
+        justify-content: space-around;
+    }
+
+    #card-name {
+        font-size: 10px;
+    }
+
+    #card-type {
+        font-size: 12px;
+    }
+
+}
