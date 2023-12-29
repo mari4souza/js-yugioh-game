@@ -227,18 +227,23 @@ a:hover {
     }
 
     .score_box {
-        height: 10rem;
+        height: 8rem;
+        width: 6rem;
         padding: 20px;
     }
 
+    .card {
+        height: 80px;
+        width: 45px;
+    }
 
     #card-image {
-        width: 140px;
+        width: 100px;
     }
 
     .card_details {
-        height: 16rem;
-        width: 8rem;
+        height: 14rem;
+        width: 7rem;
         justify-content: space-around;
     }
 
@@ -250,4 +255,15 @@ a:hover {
         font-size: 12px;
     }
 
+    #player-field-card {
+        height: 110px;
+        width: 70px;
+    }
+
+    #computer-field-card {
+        height: 110px;
+        width: 70px;
+    }
+
+    
 }
