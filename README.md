@@ -12,7 +12,7 @@ Bem vindo ao **Yu-Gi-Oh | Jo-ken-po Edition**! Este é um jogo baseado no famoso
 - JavaScript para a lógica de programação e interatividade.
 - RPGUI - Framework para interface de usuário com temática de RPG.
 
-### ✔️ Funcionalidades Incríveis
+### ✔️ Funcionalidades
 
 - Interface gráfica com as cartas representativas dos elementos do jogo.
 - Funcionalidade de seleção do jogador e da máquina.
