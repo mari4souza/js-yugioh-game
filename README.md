@@ -1,6 +1,6 @@
 # Yu-Gi-Oh! | Jo-ken-pô Edition <img height="32px" src="./src/assets/favicon/Favicon.ico" type="image/x-icon"><br>
 
-Bem vindo ao **Yu-Gi-Oh | Jo-ken-po Edition**! Este é um jogo baseado no famoso anime "Yu-Gi-Oh". Trata-se de um jogo estilo jo-ken-po, o tradicional "pedra, papel, tesoura". Diferente do original no qual os jogadores fazem os sinais com a mão, este é um jogo de cartas. As cartas são representativas de monstros, feitiços e armadilhas do universo de Yugioh, e cada uma delas possui um dos atributos possíveis: pedra, papel ou tesoura. E assim como no jogo original: Papel > Pedra > Tesoura > .
+Bem vindo ao **Yu-Gi-Oh | Jo-ken-po Edition**! Este é um jogo baseado no famoso anime "Yu-Gi-Oh". Trata-se de um jogo estilo jo-ken-po, o tradicional "pedra, papel, tesoura". Diferente do original no qual os jogadores fazem os sinais com a mão, este é um jogo de cartas. As cartas são representativas de monstros, feitiços e armadilhas do universo de Yu-Gi-Oh, e cada uma delas possui um dos atributos possíveis: pedra, papel ou tesoura. E assim como no jogo original: Papel > Pedra > Tesoura > . Prepare-se para um duelo estratégico onde você invocará cartas lendárias para superar seu oponente!
 
 <p align="center">
   <img width="700px" src="src/assets/images/yugioh-gif.gif">
